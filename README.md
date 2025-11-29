@@ -1,85 +1,90 @@
 # 📊 Product Management Portfolio – Isha Jha
 
-Welcome to my product management portfolio.  
-This repository highlights my work across **Product Requirement Documents (PRDs)**, **case studies**, and my professional resume.  
-It is designed to showcase my ability to identify problems, define product vision, collaborate cross-functionally, and deliver user-focused solutions.
+Welcome to my Product Management portfolio.
+
+I am transitioning into a **Product Manager / Associate Product Manager** role. This portfolio is created to demonstrate how I approach product problems, document requirements, think about users and metrics, and collaborate across teams — even though my formal PM experience is still growing.
+
+My background spans data, engineering, QA, and freelance projects. I am continuously upskilling through courses and hands-on practice, and this repository represents my learning-by-doing approach to Product Management.
 
 ---
 
-## 📂 Folder Structure
-product-management-portfolio/
-│
-├── README.md                # Main overview of portfolio
-│
-├── PRDs/
-│   ├── Accredian_Community_Hub_Feature_Plan.pdf
-│   ├── DataSync_360_PRD_Professional_Final.pdf
-│   ├── Lappyy_PRD.pdf
-│   ├── Vendor_Verification_PRD.pdf
-│   └── README.md                # Main overview of prds
-│
-├── Resume/
-│   └── IshaJha_ProductManager_5YOE.pdf
-│
-└── CaseStudies/
-    ├── AI-Powered Checkout-Free Grocery Shopping System.pdf
-    ├── AI-Powered Smart Virtual Assistant.pdf
-    └── AI-Enhanced Traffic Management System.pdf
-    └── README.md                # Main overview of case stuies
+## 📁 Repository Overview
 
+This portfolio is organized into three main sections:
+
+* **PRDs** – Product Requirement Documents based on real projects, freelance work, and structured assessments
+* **Case Studies** – End‑to‑end product thinking exercises, mainly focused on AI-driven systems
+* **Resume** – My current resume highlighting my transition into Product Management
+
+Each folder has its own README explaining the context and intent behind the work.
 
 ---
 
-## 🔹 PRDs
+## 🔹 Product Requirements Documents (PRDs)
 
-1. **Accredian Community Hub Feature Plan**  
-   - Created as part of an assessment.  
-   - **Skill Signal:** Shows ability to design engagement features, balance trade-offs (native vs. third-party), and structure community-driven product vision.  
+The PRDs in this portfolio show how I:
 
-2. **DataSync 360 – Product Requirements Document**  
-   - Conceptual idea developed while working as a Data Engineer.  
-   - **Skill Signal:** Demonstrates initiative in ideation, connecting technical pain points with business outcomes, and drafting measurable success metrics.  
+* Identify user and business problems
+* Define goals and success metrics
+* Scope MVPs and prioritize features
+* Think through risks, trade-offs, and constraints
 
-3. **Lappyy.com PRD**  
-   - Freelance project where I handled usability, design, and Google Analytics.  
-   - **Skill Signal:** Highlights UX problem-solving, analytics-driven decision-making, and ability to deliver lean MVPs for real-world users.  
+These documents include:
 
-4. **Vendor Verification & Admin Panel Optimization**  
-   - ERP system feature where I worked as Product Manager.  
-   - **Skill Signal:** Reflects end-to-end PM ownership — requirement gathering, workflow design, mobile-responsive UI, and measurable efficiency gains.  
+* A community engagement feature for an ed-tech platform
+* A data observability product inspired by real engineering pain points
+* A freelance marketplace product focused on usability and analytics
+* An internal ERP workflow optimization feature
+
+👉 See **PRDs/README.md** for detailed breakdowns of each document.
 
 ---
 
 ## 🔹 Case Studies
 
-- **AI-Powered Checkout-Free Grocery Shopping System**  
-   - **Skill Signal:** Ability to analyze retail pain points and propose scalable AI-driven solutions.  
+The case studies focus on **AI and data-driven products**. They are structured exercises where I practiced:
 
-- **AI-Powered Smart Virtual Assistant for Enterprise Use**  
-   - **Skill Signal:** Strong focus on adoption metrics, compliance, and enterprise integration.  
+* Problem definition and opportunity sizing
+* Solution design and system thinking
+* Metrics, risks, and adoption planning
+* Business and user impact evaluation
 
-- **AI-Enhanced Traffic Management System**  
-   - **Skill Signal:** Combines urban mobility challenges with predictive AI, ROI focus, and smart city vision.  
+While these are not shipped products, they reflect how I think through complex products as a PM.
+
+👉 See **CaseStudies/README.md** for individual case study summaries.
 
 ---
 
 ## 🔹 Resume
 
-- [Isha Jha – Associate Product Manager](./Resume/IshaJha_AssociateProductManager.pdf)
+My resume outlines:
+
+* My professional journey across data, engineering, and product-adjacent roles
+* Increasing ownership of product responsibilities
+* Tools and skills that support strong collaboration with engineering and design teams
+
+👉 Available in **Resume/** folder.
 
 ---
 
 ## 🎯 Why This Portfolio?
 
-- Demonstrates **hands-on product management experience** across assessments, freelance projects, and professional roles.  
-- Highlights **skills in usability, design, analytics, and cross-functional collaboration**.  
-- Showcases ability to **conceptualize ideas (DataSync 360)** and **deliver launched features (ERP Vendor Verification)**.  
+This portfolio is meant to:
+
+* Show **product thinking over titles**
+* Demonstrate my ability to write clear, structured PRDs
+* Highlight how my technical background supports better product decisions
+* Reflect honesty about my transition while showing readiness to grow into a PM role
+
+I am actively looking for opportunities where I can learn, execute, and contribute as a Product Manager.
 
 ---
 
 ## 📬 Contact
 
-- **LinkedIn:** [isha-jha-85398892](https://www.linkedin.com/in/isha-jha-85398892/)  
-- **Email:** jhaisha995@gmail.com  
+* **LinkedIn:** [https://www.linkedin.com/in/isha-jha-85398892](https://www.linkedin.com/in/isha-jha-85398892)
+* **Email:** [jhaisha995@gmail.com](mailto:jhaisha995@gmail.com)
 
 ---
+
+📌 *This portfolio will continue to evolve as I gain more hands-on Product Management experience.*
