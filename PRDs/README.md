@@ -131,5 +131,7 @@ Across these PRDs, I demonstrate the ability to:
 * Balance user needs with technical and business constraints
 * Write structured and actionable product documentation
 * Collaborate effectively with engineering and operations teams
+  
+---
 
-📌 This folder will continue to grow as I work on more product initiatives.
+📌 This portfolio will continue to evolve as I gain more hands-on Product Management experience.
