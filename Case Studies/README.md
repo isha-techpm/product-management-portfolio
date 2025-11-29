@@ -47,9 +47,6 @@ Though I’m early in my product management journey, I’m excited to bring curi
 
 ---
 
-## 📬 Let’s Connect
-
-- **LinkedIn:** [isha-jha-85398892](https://www.linkedin.com/in/isha-jha-85398892/)  
-- **Email:** jhaisha995@gmail.com
+📌 *This portfolio will continue to evolve as I gain more hands-on Product Management experience.*
 
 ---
