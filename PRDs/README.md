@@ -134,4 +134,4 @@ Across these PRDs, I demonstrate the ability to:
   
 ---
 
-📌 This portfolio will continue to evolve as I gain more hands-on Product Management experience.
+📌 *This portfolio will continue to evolve as I gain more hands-on Product Management experience.*
