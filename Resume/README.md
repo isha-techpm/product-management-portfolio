@@ -45,6 +45,6 @@ My technical background supports better product collaboration and decision-makin
 
 ---
 
-📄 **File available:** `IshaJha_AssociateProductManager.pdf`
+📄 **File available:** `IshaJha_Associate_PM.pdf`
 
 📌 *This resume will evolve as I take on more ownership and ship more product features.*
