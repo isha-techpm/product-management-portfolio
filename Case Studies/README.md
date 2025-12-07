@@ -59,7 +59,7 @@ A product-focused case study based on real onboarding and early usage of **Zoho 
 
 ---
 
-## Improving Tagging on LinkedIn  
+### 6. Improving Tagging on LinkedIn  
 A UX-focused product case study based on real usage patterns on LinkedIn, analyzing how users tag people and companies before and after publishing posts.
 
 **Problem:** Low discoverability of tagging, missed tags during post creation, reliance on post edits or comment-based tagging  
