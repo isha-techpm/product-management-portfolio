@@ -68,7 +68,7 @@ A UX-focused product case study based on real usage patterns on LinkedIn, analyz
 
 - **Solution:** Visible `@` tagging option in the composer, write-first tag-later flow, post-publish tagging, clearer tagging in comments  
 
-- **Metrics & Assumptions:** Increase in tagged posts, reduced post edits and tagging-only comments, improved engagement on tagged content  
+- **Risks & Mitigation:** Increase in tagged posts, reduced post edits and tagging-only comments, improved engagement on tagged content  
 
 ---
 
